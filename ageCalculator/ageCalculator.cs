@@ -6,7 +6,7 @@ namespace age
     {
        static void Main(String[] args)
         {
-            Console.WriteLine("We're gonna calculate your life time hours/seconds/nanoseconds etc etc");
+            Console.WriteLine("We're gonna calculate your life time hours/minutes/seconds/");
             Console.WriteLine("Choose a number\n[1.] hours\n[2.] seconds\n[3.] minutes");
             
             static void hours()
