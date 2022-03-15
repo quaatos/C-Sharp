@@ -1,1 +1,1 @@
-> copy the code into an existing repository
+> copy the code into an existing project
