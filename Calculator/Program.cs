@@ -34,6 +34,9 @@ namespace quaatos
             {
                 int divAnswer = firtNumber / secondNumber;
                 Console.WriteLine(firtNumber + " : " + secondNumber + " = " + divAnswer);
+            } else {
+                Console.WriteLine("No vallid input registerd");
+                return;
             }
             //developed by Quaatos with <3
         }
